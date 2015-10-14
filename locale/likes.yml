@@ -1,0 +1,12 @@
+likes:
+  post_liked_notification: "{username} halunnut viestisi"
+  post_likes_modal_title: Käyttäjät, jotka pidä siitä
+  post_liked_by_self: "{users} kuin se."
+  post_liked_by:
+    one: "{users} kuin se."
+    other: "{users} näin."
+  unlike_action: Vastenmielisyys
+  like_action: rakastan
+  notify_post_liked: Joku viesti, että olen julkaissut
+  others: "{count} muut"
+  you: sinua

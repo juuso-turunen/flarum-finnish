@@ -1,0 +1,10 @@
+mentions:
+  reply_to_post: "Vastaa # {number}"
+  post_mentioned_notification: "{username} on vastattu viesti"
+  others: "{count} muut"
+  user_mentioned_notification: "{username} mainitsit"
+  post_mentioned_by: "{users} ovat vastanneet siihen."
+  you: sinua
+  reply_link: vastaus
+  notify_post_mentioned: Joku vastaa sanoman olen julkaissut
+  notify_user_mentioned: Joku mainitsee minulle viesti

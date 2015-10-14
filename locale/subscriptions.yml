@@ -1,0 +1,13 @@
+subscriptions:
+  following: seuranta
+  ignoring: sivuuttaa
+  follow: seurata
+  unfollow: Älä
+  ignore: sivuuttaa
+  notify_new_post: Joku viestejäsi keskusteluun olen
+  new_post_notification: "{username} julkaistu"
+  not_following: Älä
+  not_following_description: Ilmoituksen, kun @ mainittu.
+  following_description: Ilmoitettava kaikista vastauksista.
+  ignoring_description: Koskaan ilmoitetaan. Piilota keskustelulista.
+  unignore: Unignore

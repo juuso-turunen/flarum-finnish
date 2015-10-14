@@ -1,0 +1,8 @@
+sticky:
+  discussion_stickied_notification: "{username} puristuksiin"
+  discussion_stickied_post: "{username} puristuksiin keskustelua."
+  discussion_unstickied_post: "{username} on unpinned keskustelua."
+  notify_discussion_stickied: Joku unpinned keskustelu aloin
+  stickied: puristuksiin
+  sticky: tappi
+  unsticky: Poista kiinnitys

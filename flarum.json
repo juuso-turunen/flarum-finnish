@@ -1,0 +1,25 @@
+{
+    "name": "finnish",
+    "title": "Finnish",
+    "description": "Localize the user interface of the forum software and its extensions into Finnish.",
+    "keywords": [],
+    "version": "0.1.0",
+    "author": {
+        "name": "Mohamed Hisham",
+        "email": "hisham@mhisham.net",
+        "homepage": "http://www.mhisham.net/"
+    },
+    "license": "MIT",
+    "require": {
+        "flarum": ">=0.1.0-beta.2"
+    },
+    "support": {
+        "source": "https://github.com/mhisham/flarum-finnish",
+        "issues": "https://github.com/mhisham/flarum-finnish/issues"
+    },
+    "icon": {
+        "name": "language",
+        "backgroundColor": "#3f51b5",
+        "color": "#fff"
+    }
+}

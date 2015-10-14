@@ -1,0 +1,108 @@
+core:
+  account: Tili
+  administration: Hallinto
+  alert: Hälytys
+  all_discussions: Kaikki keskustelut
+  before_log_in_link: Oletko jo rekisteröitynyt?
+  before_sign_up_link: Etkö ole rekisteröitynyt?
+  bio_placeholder: Kirjoita jotain sinusta
+  cannot_reply: Osaa vastata
+  cannot_reply_help: Sinulla ei ole lupaa vastata tähän keskusteluun.
+  change_email: Muokkaa sähköpostiosoitetta
+  change_password: Vaihda salasana
+  change_password_help: Klikkaa alla olevaa painiketta ja kirjoita sähköpostilinkkiin lähetimme voit vaihtaa salasanasi.
+  close: Lähellä
+  confirm_delete_discussion: Oletko varma, että haluat poistaa tämän aiheen?
+  confirm_discard_discussion: Et ole julkaisseet keskustelua. Antaisit sen?
+  confirm_discard_edit: Et tallenna muutokset. Voisitko luopua?
+  confirm_discard_reply: Et ole julkaista vastauksesi. Antaisit sen?
+  confirmation_email_sent: "Olemme lähettäneet vahvistus sähköpostitse {email}. Jos et saa sitä muutaman minuutin kuluessa, tarkista sisällön kansion toivottuja sähköpostiviestejä."
+  controls: Ohjaimet
+  delete: Poistaa
+  delete_forever: Poista pysyvästi
+  deleted: "[Poistettu]"
+  disclose_online: Että muut voivat nähdä, että olen verkossa
+  discussion_renamed_post: "{username} on muuttanut otsikon {old} kohteeseen {new}."
+  discussion_renamed_notification: "{username} muutetaan otsikko"
+  discussion_replied: "Viimeisin vastaus {ago} sitten {username}"
+  discussion_started: "Aloitti {ago} sitten {username}"
+  discussion_title: Aiheen otsikko
+  discussions: Keskustelut
+  edit: Muokata
+  editing_post: "Viesti #{number} kohteeseen {discussion}"
+  email: E-mail
+  email_confirmation_required: "Sinun on vahvistettava sähköpostiosoitteesi ennen kuin kirjaudut sisään. Lähetimme vahvistuksen sähköpostitse {email}. Jos et saa sitä muutaman minuutin kuluessa, tarkista sisällön sisältävän tiedoston toivottua sähköpostia. "
+  exit_full_screen: Poistu koko näytön tilassa
+  forgot_password: Unohtuiko salasana
+  forgot_password_help: Anna sähköpostiosoitteesi, jotta voimme lähettää sinulle linkin, jonka avulla voit palauttaa salasanan.
+  forgot_password_link: Unohtuiko salasana?
+  full_screen: Koko näyttö
+  go_to: "Mene {sijainti}"
+  group_admin: Hallintomies
+  group_admins: Ylläpitäjät
+  group_guest: Vieras
+  group_guests: Asiakkaat
+  group_member: Jäsen
+  group_members: Jäsen
+  group_mod: Hidastin
+  group_mods: Moderaattorit
+  invalid_login: Kirjautumistietosi on virheellinen.
+  joined: "Liittyi sitten {ago}"
+  load_more: Lataa lisää
+  log_in: Kirjaudu
+  log_in_to_reply: Kirjaudu vastata
+  log_out: Kirjaudu ulos
+  mark_all_as_read: Merkitse kaikki luetuiksi
+  mark_as_read: Merkitse luetuksi
+  minimize: Vähentää
+  no_notifications: Ilmoitusta
+  notifications: Ilmoitukset
+  notify_discussion_renamed: Joku nimeää keskustelu aloin
+  now: Nyt
+  online: Online
+  original_post: Alkuperäinen viesti
+  password: Salasana
+  password_reset_email_sent: Olemme lähettäneet sähköpostiisi linkin uuden salasanan. Jos et saa sitä muutaman minuutin kuluessa, tarkista sisällön kansion ei-toivottuja sähköposteja.
+  period_later: "{period} myöhemmin"
+  post_discussion: Post Thread
+  post_edited: "Muokattu {ago} sitten {username}"
+  post_number: "Viesti #{number}"
+  post_reply: Post vastaus
+  posts: Viestit
+  powered_by_flarum: Powered by Flarum
+  privacy: Luottamuksellisuus
+  profile: Profiili
+  prompt_rename_discussion: Anna uusi otsikko tätä säiettä:
+  recover_password: Palauta salasana
+  refresh: Elävästi
+  remove: Poistaa
+  rename: Uudelleennimittämismenettely
+  reply: Vastaus
+  reply_posted: Vastauksesi on julkaistu.
+  restore: Palauttaa
+  save_changes: Tallenna muutokset
+  search_all_discussions: 'Etsi" {query} "kaikkiin keskusteluihin'
+  search_forum: Haku foorumi
+  send_password_reset_email: Lähetä salasanan sähköpostia
+  settings: Asetukset
+  sign_up: Rekisteröinti
+  sort_latest: Viimeaikainen
+  sort_newest: Uusi
+  sort_oldest: Veterans
+  sort_relevance: Merkitys
+  sort_top: Ylin
+  start_a_discussion: Aloita keskustelu
+  unread_posts:
+    one: "{count} lukematonta"
+    other: "{count} lukematonta"
+  upload: Siirto
+  username: Käyttäjätunnus
+  username_or_email: Käyttäjätunnus tai sähköpostiosoite
+  users: Käyttäjät
+  view: Näkymä
+  viewing_posts:
+    one: "{index} on {count} viesti"
+    other: "{index} on {count} viestejä"
+  welcome_user: "Tervetuloa {username} !"
+  write_a_post: Kirjoita viesti ...
+  write_a_reply: Kirjoita vastaus ...

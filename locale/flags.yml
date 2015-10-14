@@ -1,0 +1,8 @@
+flags:
+  reason_off_topic: Off-topic
+  reason_spam: ei-toivottu
+  reason_inappropriate: sopimaton
+  reason_other: muut
+  flagged_by: "Kertonut {username}"
+  flagged_by_with_reason: "Kertonut {username} kuten {reason}"
+  no_flags: Ei raportoitu

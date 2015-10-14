@@ -1,0 +1,18 @@
+tags:
+  tags: tarrat
+  discussion_tagged_post: "{username} {action}."
+  added_tags: "lisäsi {tags}"
+  removed_tags: "poistettiin {tags}"
+  tag_new_discussion_title: Valitse tarroja keskusteluun
+  tag_new_discussion_link: Valitse tarrat
+  edit_discussion_tags_title: "Muokkaa tunnisteita {title}"
+  edit_discussion_tags_link: Muokkaa tunnisteita
+  choose_primary_tags:
+    one: Valitse {count} tärkein etiketti
+    other: "Valitse suuret levy-yhtiöt {count}"
+  choose_secondary_tags:
+    one: Valitse {count} toista merkintää
+    other: "Valitse {count} toissijainen tarrat"
+  confirm: vahvistaa
+  more: Lisää ...
+  deleted: poistettu

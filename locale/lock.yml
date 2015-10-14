@@ -1,0 +1,8 @@
+lock:
+  discussion_locked_notification: "{username} on lukittu"
+  discussion_locked_post: "{username} lukittu keskustelua."
+  discussion_unlocked_post: "{username} avata keskustelun."
+  notify_discussion_locked: Joku lukitsee keskustelun aloin
+  locked: kiinni
+  lock: lukko
+  unlock: avata
